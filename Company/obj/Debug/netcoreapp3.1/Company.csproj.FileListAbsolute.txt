@@ -1,0 +1,13 @@
+C:\Users\gustavo.nascimento\source\repos\Company\Company\obj\Debug\netcoreapp3.1\Company.csprojAssemblyReference.cache
+C:\Users\gustavo.nascimento\source\repos\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+C:\Users\gustavo.nascimento\source\repos\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+C:\Users\gustavo.nascimento\source\repos\Company\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.nascimento\source\repos\Company\Company\bin\Debug\netcoreapp3.1\Company.exe
+C:\Users\gustavo.nascimento\source\repos\Company\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+C:\Users\gustavo.nascimento\source\repos\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+C:\Users\gustavo.nascimento\source\repos\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+C:\Users\gustavo.nascimento\source\repos\Company\Company\bin\Debug\netcoreapp3.1\Company.dll
+C:\Users\gustavo.nascimento\source\repos\Company\Company\bin\Debug\netcoreapp3.1\Company.pdb
+C:\Users\gustavo.nascimento\source\repos\Company\Company\obj\Debug\netcoreapp3.1\Company.dll
+C:\Users\gustavo.nascimento\source\repos\Company\Company\obj\Debug\netcoreapp3.1\Company.pdb
+C:\Users\gustavo.nascimento\source\repos\Company\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache
